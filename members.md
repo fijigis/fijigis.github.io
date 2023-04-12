@@ -8,5 +8,5 @@ permalink: /members/
 - Paul Geraghty
 - John Lowry
 - [Daichi Mochihashi](http://chasen.org/~daiti-m/)
-- [Yugo Murawaki](http://murawaki.org/)
+- [Yugo Murawaki](https://murawaki.org/)
 - Noboru Yoshioka
